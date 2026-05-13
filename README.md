@@ -1,2 +1,2 @@
 # AI-Resume-Screening-Master
-a resume screening website
+A resume screening website
